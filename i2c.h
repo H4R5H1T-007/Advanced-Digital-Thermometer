@@ -1,10 +1,3 @@
-//
-//  i2c.h
-//  BMP180
-//
-//  Created by Atakan on 19/08/16.
-//  Copyright © 2016 Atakan. All rights reserved.
-//
 
 #ifndef i2c_h
 #define i2c_h
